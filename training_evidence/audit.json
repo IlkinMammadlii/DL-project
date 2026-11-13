@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    "Frozen checkpoint hash and run identity",
+    "pointnet2_ssg_06_07: untruncated block passes (all-ignore batches may skip attempts), saved optimiser/scheduler/scaler, validation-best epoch",
+    "pointnet2_ssg_07: untruncated block passes (all-ignore batches may skip attempts), saved optimiser/scheduler/scaler, validation-best epoch",
+    "val: all 271 scans, full twice-voted coverage and recomputed ignored-label metrics",
+    "test: all 801 scans, full twice-voted coverage and recomputed ignored-label metrics",
+    "MP4: 200 consecutive frames, 1920\u00d71080, 10 fps"
+  ],
+  "video_probe": {
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "10/1",
+    "nb_read_frames": "200"
+  }
+}

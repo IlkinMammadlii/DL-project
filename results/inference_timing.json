@@ -1,0 +1,14 @@
+{
+  "frames": 200,
+  "first_scan": 100,
+  "last_scan": 299,
+  "playback_fps": 10,
+  "playback_seconds": 20.0,
+  "mean_processing_seconds_per_scan": 5.4624740649999515,
+  "median_processing_seconds_per_scan": 5.317364149999776,
+  "p95_processing_seconds_per_scan": 6.611713130003409,
+  "processing_fps": 0.1830672307274394,
+  "real_time_at_10hz": false,
+  "timing_excludes": "video rendering and camera reads; includes block preparation, transfers, GPU forward, voting",
+  "camera_alignment": "Exact KITTI sequence-03 image_2 scan IDs with odometry P2 and Tr calibration"
+}

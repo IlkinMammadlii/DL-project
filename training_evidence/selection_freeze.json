@@ -1,0 +1,10 @@
+{
+  "selected_run": "pointnet2_ssg_06_07",
+  "criterion": "Fixed 256-block validation mIoU19 only; no held-out inference before freeze",
+  "candidates": {
+    "pointnet2_ssg_07": 0.2249627561117421,
+    "pointnet2_ssg_06_07": 0.22720268334657645
+  },
+  "checkpoint_sha256": "1809f51e91dbdcddcdf0eaf536c5cdeace975844a176d9fbc251f2a230f2b4cd",
+  "frozen_unix": 1792927800.1272492
+}

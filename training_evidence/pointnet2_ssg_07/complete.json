@@ -1,0 +1,8 @@
+{
+  "epochs": 37,
+  "planned_maximum_epochs": 40,
+  "updates": 389563,
+  "wall_seconds": 91559.00094309996,
+  "best_validation_miou19": 0.2249627561117421,
+  "peak_gpu_mb": 227.609375
+}

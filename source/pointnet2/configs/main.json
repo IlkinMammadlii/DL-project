@@ -1,0 +1,17 @@
+{
+  "name": "pointnet2_ssg_07",
+  "seed": 42,
+  "points": 4096,
+  "batch": 4,
+  "epochs": 40,
+  "lr": 0.001,
+  "min_lr": 0.00001,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.0,
+  "val_blocks": 256,
+  "max_steps_per_epoch": null,
+  "train_limit": null,
+  "early_stop_patience": 8,
+  "minimum_epochs": 20,
+  "comment": "Full passes through all 42,113 overlapping 16m blocks of all 1,101 sequence-07 scans. Up to 421,160 optimiser updates; validation-only early stopping after at least 20 full epochs."
+}

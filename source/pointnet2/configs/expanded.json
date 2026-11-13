@@ -1,0 +1,18 @@
+{
+  "name": "pointnet2_ssg_06_07",
+  "dataset": "train_joint",
+  "seed": 42,
+  "points": 4096,
+  "batch": 4,
+  "epochs": 10,
+  "lr": 0.0005,
+  "min_lr": 0.00001,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.0,
+  "val_blocks": 256,
+  "max_steps_per_epoch": null,
+  "train_limit": null,
+  "early_stop_patience": 10,
+  "minimum_epochs": 10,
+  "comment": "Conditional expansion: warm-start from sequence-07 best; 10 full passes through sequences 06+07, only if remaining measured budget allows. Fresh optimiser/schedule; training-only joint statistics."
+}

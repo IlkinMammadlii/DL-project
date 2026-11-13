@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "tests": [
+    "FPS and radius-neighbour constraints",
+    "Hierarchical SA/FP output shape, permutation equivariance, finite gradients",
+    "19-class averaging and hand-computed confusion arithmetic",
+    "Official moving-class merges and ignored labels",
+    "Sparse-cell padding and exact twice-voted full-scene coverage",
+    "Actual multi-class overfit sanity check"
+  ]
+}
